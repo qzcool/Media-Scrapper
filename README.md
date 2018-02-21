@@ -1,5 +1,5 @@
 # Image-Scrapper
-An image scrapper that values simplicity and performance. Download the best story under a certain tag automatically.
+An image scrapper that values simplicity and performance. Download the best story under a certain tag automatically. Builded on top of BeautifulSoup4 and Requests.
 
 ## Instruction
 1. Download the repository to the local path, where the images will be saved
