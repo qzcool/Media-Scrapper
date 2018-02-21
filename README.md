@@ -6,10 +6,10 @@ An image scrapper that values simplicity and performance. Download the best stor
 ## Deployment Instruction
 1. Download the repository to the local path, where the images will be saved
 2. Install Packages Dependencies:
-  1. tqdm: `pip install tqdm`
-  2. fake-useragent: `pip install fake-useragent`
-  3. BeautifulSoup4: `pip install beautifulsoup4`
-  4. Requests: `pip install requests`
+  * tqdm: `pip install tqdm`
+  * fake-useragent: `pip install fake-useragent`
+  * BeautifulSoup4: `pip install beautifulsoup4`
+  * Requests: `pip install requests`
 3. Open the `ImageScrapper.ipynb` file with Jupyter Notebook
 4. Select the image source (code block)
 5. Alter the url or tag information for your need
