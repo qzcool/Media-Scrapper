@@ -7,4 +7,4 @@ An image scrapper that values simplicity and performance. Download the best stor
 3. Select the code block, Run to start scrapping images
 
 # Disclaimer
-Sharing allergic (adult) contents might be against the law. This image scrapper is purely for personal academic purpose and therefore not obliged to any legal issues related with non-personal, non-academic purposes.
+**Sharing allergic (adult) contents might be against the law.** This image scrapper is purely for personal academic purpose and therefore not obliged to any legal issues related with non-personal, non-academic purposes.
