@@ -5,7 +5,7 @@ An image scrapper that values simplicity and performance. Download the best stor
 1. Download all images of a story (url) in the folder under the story name.
 2. Create a list of stories by tag (topic), download all images of stories (urls)
 
-
+![Sample Story Images](/Users/qiaozhang/Desktop/1.png)
 
 ## Deployment Instruction
 1. Download the repository to the local path, where the images will be saved.
