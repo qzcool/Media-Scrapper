@@ -2,8 +2,8 @@
 An image scrapper that values simplicity and performance. Download the best story under a certain tag automatically. Builded on top of BeautifulSoup4 and Requests.
 
 ## Functionality
-1. Download all images of a story in the folder under the story name.
-2. Create a list of stories by tag (topic), download images of stories (url)
+1. Download all images of a story (url) in the folder under the story name.
+2. Create a list of stories by tag (topic), download all images of stories (urls)
 
 
 
