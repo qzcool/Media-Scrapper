@@ -5,7 +5,7 @@ An image scrapper that values simplicity and performance. Download the best stor
 1. Download all images of a story (url) in the folder under the story name.
 2. Create a list of stories by tag (topic), download all images of stories (urls)
 
-![Sample Story Images](https://pan.baidu.com/s/1mj6sI3e)
+[![Sample Story Images](https://s13.postimg.org/f2o9amc8n/image.png)](https://postimg.org/image/9ehyjq7w3/)
 
 ## Deployment Instruction
 1. Download the repository to the local path, where the images will be saved.
