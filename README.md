@@ -7,6 +7,10 @@ An image scrapper that values simplicity and performance. Download the best stor
 
 [![Sample Story Images](https://s13.postimg.org/f2o9amc8n/image.png)](https://postimg.org/image/9ehyjq7w3/)
 
+## Supported Image Sources
+1. 福利秀
+2. 91自拍论坛
+
 ## Deployment Instruction
 1. Download the repository to the local path, where the images will be saved.
 2. Install Packages Dependencies:
