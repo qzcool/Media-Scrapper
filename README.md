@@ -1,6 +1,4 @@
 # Image-Scrapper
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/qzcool/Image-Scrapper/master)
-
 An image scrapper that values simplicity and performance. Download the best story under a certain tag automatically. Builded on top of BeautifulSoup4 and Requests.
 
 ## Deployment Instruction
